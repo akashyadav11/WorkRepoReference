@@ -1,0 +1,17 @@
+site_name: Notes Guide Book
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Java:
+      - Streams: Java/streams.md
+  - AWS:
+      - S3: aws/s3.md
+  - DSA:
+      - Arrays: dsa/arrays.md
