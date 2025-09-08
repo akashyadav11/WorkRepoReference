@@ -10,8 +10,17 @@ theme:
 nav:
   - Home: index.md
   - Java:
+      - Memory: Java/Memory.md
       - Streams: Java/streams.md
   - AWS:
       - S3: aws/s3.md
   - DSA:
       - Arrays: dsa/arrays.md
+  - spring:
+      - springboot: spring/springboot.md 
+  - data-engineering:
+      - basic: data-engineering/basics.md
+  - javascript:
+      - Arrays: javascript/basics.md
+  - LLD:
+      - SOLID: LLD/Solid.md         
